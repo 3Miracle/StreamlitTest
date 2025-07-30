@@ -6,3 +6,4 @@ scikit-learn
 pydantic
 matplotlib
 statsmodels
+transformers
