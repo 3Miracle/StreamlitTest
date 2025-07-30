@@ -1,0 +1,8 @@
+plotly
+networkx
+jieba
+textblob
+scikit-learn
+pydantic
+matplotlib
+statsmodels
